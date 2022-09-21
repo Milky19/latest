@@ -1,0 +1,26 @@
+git project
+===========
+1.create one folder mkdir
+2. go to iniside folder
+3. create some files
+4. make it this folder as a  git folder
+5. git add .
+6. git commit -m "msg"
+7. git push your changes remote repo
+8. create github account
+9.create a repository same as name of local folder name
+10.adding remote repo URL into your local
+11 git push
+
+
+
+
+
+
+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
+
+
+
+
+
+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
